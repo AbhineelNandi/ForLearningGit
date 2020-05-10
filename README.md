@@ -1,2 +1,3 @@
 # ForLearningGit
-this is a small contribution to learners of git
+HI, i am noob Nandi .....
+This is a small contribution to learners of git
